@@ -1,0 +1,42 @@
+[
+    {
+      "id": 1,
+      "nombre": "Corolla",
+      "marca": "Toyota",
+      "precio": 84000000,
+      "color": "Gris",
+      "modelo": 2018,
+      "transmision": "mecánica",
+      "imagen": "https://11uk91uj5h62os2u61c0s6o1-wpengine.netdna-ssl.com/wp-content/uploads/2020/08/1.-SUPER-BLANCO.jpg"
+    },
+    {
+        "id": 2,
+        "nombre": "Fortuner",
+        "marca": "Toyota",
+        "precio": 195000000,
+        "color": "Rojo",
+        "modelo": 2022,
+        "transmision": "automatica",
+        "imagen": "https://www.diariomotor.com/imagenes/2020/06/toyota-fortuner-2020-34.jpg"
+      },
+      {
+        "id": 3,
+        "nombre": "Model 3",
+        "marca": "Tesla",
+        "precio": 150000000,
+        "color": "Azul metalico",
+        "modelo": 2020,
+        "transmision": "automatica",
+        "imagen": "https://www.hibridosyelectricos.com/media/hibridos/images/2021/01/20/2021012018370721530.jpg"
+      },
+      {
+        "id": 4,
+        "nombre": "Defender",
+        "marca": "Land Rover",
+        "precio": 19000000,
+        "color": "Gris",
+        "modelo": 2019,
+        "transmision": "autocamica",
+        "imagen": "https://cdn-jaguarlandrover.com/api/v1/image/24245/w/1000.jpg"
+      }
+  ]
